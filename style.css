@@ -1,0 +1,67 @@
+body
+{
+	background-color: #861bb8;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(177, 73, 73);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: rgb(109, 199, 206);
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: rgb(201, 71, 110);
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	color: orange;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+h3{
+	font-family: 'Lora', serif;
+	color: teal;
+}
+#username{
+	font-family: 'Yellowtail', cursive;
+	color: turquoise;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#number_1,#number_2
+{
+	color: rgb(179, 194, 49);
+	font-weight: bold;
+}
+h4{
+	color: rgb(28, 62, 209);
+	font-family: 'Akaya Kanadaka', cursive;
+	width: 100px;
+}
